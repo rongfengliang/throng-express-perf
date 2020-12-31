@@ -1,0 +1,11 @@
+{
+  "name": "nodejs-throng",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.17.1",
+    "throng": "^5.0.0"
+  }
+}
